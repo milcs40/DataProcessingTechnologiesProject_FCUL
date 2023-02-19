@@ -6,7 +6,7 @@ HuGS-DW Human GWAS-SNP Cross-Reference Data Warehouse - Group project for the Da
 
 ## Phase 1
 Plan the DW, describing the original datasets and relevant information, facts tables, the granularity of the DW, possible dimensions, how many data marts are planned and the proposed star schema.
-Includes the initial report (`TPD_1920_Project_Phase1_Group20.pdf`) for the HuGS-DW.
+Includes the initial report ([`TPD_1920_Project_Phase1_Group20.pdf`](TPD_1920_Project_Phase1_Group20.pdf)) for the HuGS-DW.
 
 ## Phase 2
 Make a Python notebook containing the following sections:
