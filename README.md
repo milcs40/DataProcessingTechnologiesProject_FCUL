@@ -14,7 +14,7 @@ Make a Python notebook containing the following sections:
 - Define an ETL workflow
 - Do a critical assessment of the work
 
-Includes the Jupyter Notebook (`TPD_1920_Project_Phase2_Group20_V3.ipynb`) and the star schema (`HuGs_Star_Schema.png`) for the HuGS-DW.
+Includes the Jupyter Notebook ([`TPD_1920_Project_Phase2_Group20_V3.ipynb`](TPD_1920_Project_Phase2_Group20_V3.ipynb)) and the star schema ([`HuGs_Star_Schema.png`](HuGs_Star_Schema.png)) for the HuGS-DW.
 
 ## Phase 3
 Make a Python notebook containing the following sections:
@@ -22,4 +22,4 @@ Make a Python notebook containing the following sections:
 - Bottlenecks
 - Do a critical assessment of the full project
 
-Includes the Jupyter Notebook (`TPD_1920_Project_Phase3_Group20.ipynb`) for the HuGS-DW.
+Includes the Jupyter Notebook ([`TPD_1920_Project_Phase3_Group20.ipynb`](TPD_1920_Project_Phase3_Group20.ipynb)) for the HuGS-DW.
